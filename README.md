@@ -12,6 +12,6 @@ by identifying trends and patterns in the data.</p>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
  <a href="https://daxstudio.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.pngitem.com/pimgs/m/681-6819613_dax-studio-logo-hd-png-download.png"> </a> 
+<img src="https://www.pngitem.com/pimgs/m/681-6819613_dax-studio-logo-hd-png-download.png" alt="daxstudio" width="40" height="40"/> </a> 
  
  </p>
