@@ -1,4 +1,4 @@
-<h2 align="center">Atliq Hardware Analysis</h2>
+﻿<h2 align="center">Atliq Hardware Analysis</h2>
 
 
 <h3 align="left">Objective</h3>
@@ -27,7 +27,7 @@ by identifying trends and patterns in the data.</p>
 ⚫ Designed dashboard for finance, sales, marketing, and supply chain department.
 </p>
 
-<h3 align="left">Report</h3>
+<h3 align="left">Reports</h3>
  <p align="left">
 Finance View<br>
 Marketing View<br>
