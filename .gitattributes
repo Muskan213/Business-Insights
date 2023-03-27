@@ -1,1 +1,2 @@
 *.pbix filter=lfs diff=lfs merge=lfs -text
+Bussiness_insights.pbix filter=lfs diff=lfs merge=lfs -text
