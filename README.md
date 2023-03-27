@@ -2,7 +2,7 @@
 
 
 <h3 align="left">Objective</h3>
-<p align="left">The aim of the project is to analyze the data for Atliq Hardware to uncover insights that can inform business decisions 
+<p align="left">The aim of this project is to analyze the data for Atliq Hardware to uncover insights that can inform business decisions 
 by identifying trends and patterns in the data.</p>
 
 
